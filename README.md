@@ -63,7 +63,7 @@
     </td>
     <td>
       <p> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" height="550px"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" height="510px"/>
         <img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="duchuyvo0368" width="100%"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duchuyvo0368&theme=algolia" width="100%"/>
       </p>
