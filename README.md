@@ -7,7 +7,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+> ✍ I'm a software developer .
 
 <br />
 
@@ -66,7 +66,3 @@
     </td>
   </tr>
 </table>
-
-# Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
