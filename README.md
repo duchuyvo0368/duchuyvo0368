@@ -58,7 +58,7 @@
     <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="duchuyvo0368" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="duchuyvo0368" width="100%"/>
-  ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TienNHM&theme=material_palenight)
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duchuyvo0368&theme=material_palenight"
     </td>
     <td>
       <p align="center"> 
