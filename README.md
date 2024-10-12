@@ -17,22 +17,22 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="n" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/duchuyvo0368" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+  <a href="" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
+  <a href="" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
@@ -58,8 +58,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voduchuy&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=voduchuy&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="voduchuy" width="100%"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="duchuyvo0368" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="duchuyvo0368" width="100%"/>
     </td>
     <td>
       <p align="center"> 
