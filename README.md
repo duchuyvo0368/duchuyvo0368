@@ -17,19 +17,19 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="" target="_blank">
+  <a target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="n" alt="Facebook">
+  <a alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/duchuyvo0368" alt="Github">
+  <a alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="" alt="Youtube channel" target="_blank" >
+  <a alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="" alt="Email">
+  <a alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL Logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="48" height="48"/>
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker Logo"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
@@ -56,13 +56,16 @@
 <table style="width:100%;">
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="duchuyvo0368" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="duchuyvo0368" width="100%"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duchuyvo0368&theme=material_palenight"
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20commonly%20used%20languages" alt="duchuyvo0368" width="100%"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duchuyvo0368&theme=material_palenight" width="100%"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duchuyvo0368&theme=tokyonight" width="100%"/>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duchuyvo0368&theme=material_palenight" width="100%"/>
     </td>
     <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      <p> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" height="570px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="duchuyvo0368" width="100%"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duchuyvo0368&theme=algolia" width="100%"/>
       </p>
     </td>
   </tr>
