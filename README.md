@@ -11,7 +11,7 @@
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/duchuyvo0368/Github-Profile-Tutorial.svg)](https://gitter.im/duchuyvo0368/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=duchuyvo0368&style=flat-square)
 
 ## 📫 How to reach me:
@@ -55,7 +55,7 @@
 
 <table style="width:150%;">
   <tr>
-      <img src="https://github.com/duchuyvo0368/duchuyvo0368/blob/master/video/5f8d442439e45df97daca82c973f537b.gif" width="100%"/>
+    https://github.com/user-attachments/assets/87213cde-8042-4ae5-a777-59d1f33678f6
   </tr>
   <tr>
     <td>
