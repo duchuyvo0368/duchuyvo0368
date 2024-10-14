@@ -55,7 +55,7 @@
 
 <table style="width:150%;">
   <tr>
-      <img src="https://v1.pinimg.com/videos/mc/720p/5f/8d/44/5f8d442439e45df97daca82c973f537b.mp4"/>
+      <img src="https://github.com/duchuyvo0368/duchuyvo0368/blob/master/video/5f8d442439e45df97daca82c973f537b.gif" width="100%"/>
   </tr>
   <tr>
     <td>
