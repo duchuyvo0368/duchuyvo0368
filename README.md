@@ -11,7 +11,7 @@
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/duchuyvo0368/Github-Profile-Tutorial.svg)](https://gitter.im/duchuyvo0368/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=duchuyvo0368&style=flat-square)
 
 ## 📫 How to reach me:
@@ -55,15 +55,17 @@
 
 <table style="width:150%;">
   <tr>
+    https://github.com/user-attachments/assets/87213cde-8042-4ae5-a777-59d1f33678f6
+  </tr>
+  <tr>
     <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20commonly%20used%20languages" alt="duchuyvo0368" width="100%"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duchuyvo0368&theme=material_palenight" width="100%"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duchuyvo0368&theme=tokyonight" width="100%"/>
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duchuyvo0368&theme=material_palenight" width="100%"/>
     </td>
     <td>
       <p> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" height="500px"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duchuyvo0368&theme=material_palenight" width="100%"/>
         <img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="duchuyvo0368" width="100%"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duchuyvo0368&theme=algolia" width="100%"/>
       </p>
