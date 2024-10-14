@@ -55,7 +55,7 @@
 
 <table style="width:150%;">
   <tr>
-    https://github.com/user-attachments/assets/87213cde-8042-4ae5-a777-59d1f33678f6
+    <img src="https://github.com/duchuyvo0368/duchuyvo0368/blob/master/video/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20(1).gif" width="100%"/>
   </tr>
   <tr>
     <td>
