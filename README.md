@@ -1,74 +1,45 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/duchuyvo0368.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-
-<h2 align="center">Hi 👋, I'm HuyVo</h2>
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-> ✍ I'm a software developer .
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/duchuyvo0368/Github-Profile-Tutorial.svg)](https://gitter.im/duchuyvo0368/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=duchuyvo0368&style=flat-square)
-
-## 📫 How to reach me:
 
 <p align="center">
-  <a target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
+## Star History
 
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="48" height="48"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker Logo"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin Logo"/>
-  <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="Android Logo"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</p>
+[![Star History Chart](https://api.star-history.com/svg?repos=duchuyvo0368/duchuyvo0368&type=Date)](https://star-history.com/#duchuyvo0368/duchuyvo0368&Date)
 
-## Activities:
 
-<table style="width:150%;">
-  <tr>
-    <img src="https://github.com/duchuyvo0368/duchuyvo0368/blob/master/video/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20(1).gif" width="100%"/>
-  </tr>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20commonly%20used%20languages" alt="duchuyvo0368" width="100%"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duchuyvo0368&theme=material_palenight" width="100%"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duchuyvo0368&theme=tokyonight" width="100%"/>
-    </td>
-    <td>
-      <p> 
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duchuyvo0368&theme=material_palenight" width="100%"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=duchuyvo0368&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&custom_title=Works%20on%20Github" width="100%"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duchuyvo0368&theme=algolia" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<!--
+**duchuyvo0368/duchuyvo0368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
