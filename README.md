@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
-## Star History
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=duchuyvo0368/duchuyvo0368&type=Date)](https://star-history.com/#duchuyvo0368/duchuyvo0368&Date)
 
